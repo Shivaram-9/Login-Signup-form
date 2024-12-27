@@ -1,6 +1,4 @@
 # Login-Signup-form
-
-# Login form & Sign Up form full Code 
 This is the professional Login & signup form.
 Built with **HTML5** and **CSS3**. 
 
